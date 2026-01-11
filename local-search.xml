@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>总算把hexo配置好了，gemini是真的好用，我大力推荐gemini</title>
-    <link href="/2026/01/11/%E6%80%BB%E7%AE%97%E6%8A%8Ahexo%E9%85%8D%E7%BD%AE%E5%A5%BD%E4%BA%86%EF%BC%8Cgemini%E6%98%AF%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%94%A8%EF%BC%8C%E6%88%91%E5%A4%A7%E5%8A%9B%E6%8E%A8%E8%8D%90gemini/"/>
-    <url>/2026/01/11/%E6%80%BB%E7%AE%97%E6%8A%8Ahexo%E9%85%8D%E7%BD%AE%E5%A5%BD%E4%BA%86%EF%BC%8Cgemini%E6%98%AF%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%94%A8%EF%BC%8C%E6%88%91%E5%A4%A7%E5%8A%9B%E6%8E%A8%E8%8D%90gemini/</url>
+    <title>动能定理推导（测试文档）</title>
+    <link href="/2026/01/11/%E5%8A%A8%E8%83%BD%E5%AE%9A%E7%90%86%E6%8E%A8%E5%AF%BC/"/>
+    <url>/2026/01/11/%E5%8A%A8%E8%83%BD%E5%AE%9A%E7%90%86%E6%8E%A8%E5%AF%BC/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="高中版本"><a href="#高中版本" class="headerlink" title="高中版本"></a>高中版本</h1><p>在匀变速直线运动过程中，有等式<br>$$<br>v_2^2-v_1^2&#x3D;2ax<br>$$<br>设质点质量为$m$，在两端乘以$m$就得到<br>$$<br>\frac{1}{2}mv_2^2-\frac{1}{2}mv_1^2 &#x3D; max<br>$$<br>由牛顿第二定律可知$F&#x3D;ma$，所以<br>$$<br>\frac{1}{2}mv_2^2-\frac{1}{2}mv_1^2 &#x3D; Fx &#x3D; W<br>$$<br>这就是动能定理。</p><h1 id="大学版本"><a href="#大学版本" class="headerlink" title="大学版本"></a>大学版本</h1><p>根据牛顿第二定律就有<br>$$<br>\bm{F}&#x3D;m\dot{\bm{v}}<br>$$<br>两端点乘$\bm{v}dt$就有<br>$$<br>\begin{align*}<br>    W &amp;&#x3D; \int_{A}^{B}m\dot{\bm{v}}\cdot\bm{v}dt \<br>    W &amp;&#x3D; \int_A^B d\left(\frac{1}{2}mv^2\right) \<br>    W &amp;&#x3D; \frac{1}{2}mv_B^2-\frac{1}{2}mv_A^2<br>\end{align*}<br>$$</p>]]></content>
     
     
     
